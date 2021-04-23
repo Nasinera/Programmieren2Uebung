@@ -1,0 +1,13 @@
+﻿  ShaderInterface.cpp
+Z:\visual studio\4 gespeicherten dateien\TestNumber1\ShaderInterface.cpp(106,52): error C2664: 'void throwInfoLog(GLint,void (__cdecl *)(GLuint,GLsizei,GLsizei *,GLchar *))': cannot convert argument 2 from 'PFNGLGETPROGRAMINFOLOGPROC' to 'void (__cdecl *)(GLuint,GLsizei,GLsizei *,GLchar *)'
+Z:\visual studio\4 gespeicherten dateien\TestNumber1\ShaderInterface.cpp(106,33): message : This conversion requires a reinterpret_cast, a C-style cast or function-style cast
+Z:\visual studio\4 gespeicherten dateien\TestNumber1\ShaderInterface.cpp(88,6): message : see declaration of 'throwInfoLog'
+Z:\visual studio\4 gespeicherten dateien\TestNumber1\ShaderInterface.cpp(110,52): error C2664: 'void throwInfoLog(GLint,void (__cdecl *)(GLuint,GLsizei,GLsizei *,GLchar *))': cannot convert argument 2 from 'PFNGLGETPROGRAMINFOLOGPROC' to 'void (__cdecl *)(GLuint,GLsizei,GLsizei *,GLchar *)'
+Z:\visual studio\4 gespeicherten dateien\TestNumber1\ShaderInterface.cpp(110,33): message : This conversion requires a reinterpret_cast, a C-style cast or function-style cast
+Z:\visual studio\4 gespeicherten dateien\TestNumber1\ShaderInterface.cpp(88,6): message : see declaration of 'throwInfoLog'
+Z:\visual studio\4 gespeicherten dateien\TestNumber1\ShaderInterface.cpp(139,56): error C2664: 'void throwInfoLog(GLint,void (__cdecl *)(GLuint,GLsizei,GLsizei *,GLchar *))': cannot convert argument 2 from 'PFNGLGETSHADERINFOLOGPROC' to 'void (__cdecl *)(GLuint,GLsizei,GLsizei *,GLchar *)'
+Z:\visual studio\4 gespeicherten dateien\TestNumber1\ShaderInterface.cpp(139,38): message : This conversion requires a reinterpret_cast, a C-style cast or function-style cast
+Z:\visual studio\4 gespeicherten dateien\TestNumber1\ShaderInterface.cpp(88,6): message : see declaration of 'throwInfoLog'
+Z:\visual studio\4 gespeicherten dateien\TestNumber1\ShaderInterface.cpp(162,54): error C2664: 'void throwInfoLog(GLint,void (__cdecl *)(GLuint,GLsizei,GLsizei *,GLchar *))': cannot convert argument 2 from 'PFNGLGETSHADERINFOLOGPROC' to 'void (__cdecl *)(GLuint,GLsizei,GLsizei *,GLchar *)'
+Z:\visual studio\4 gespeicherten dateien\TestNumber1\ShaderInterface.cpp(162,36): message : This conversion requires a reinterpret_cast, a C-style cast or function-style cast
+Z:\visual studio\4 gespeicherten dateien\TestNumber1\ShaderInterface.cpp(88,6): message : see declaration of 'throwInfoLog'
